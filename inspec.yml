@@ -1,0 +1,5 @@
+name: security-baseline
+title: Security Baseline Profile
+version: 1.0.0
+supports:
+  - os-family: linux
